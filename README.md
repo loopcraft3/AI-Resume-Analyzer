@@ -2,7 +2,7 @@
 An AI-powered resume screening web application that compares resumes with job descriptions using Natural Language Processing (NLP). The system calculates a match percentage and identifies missing skills to help candidates improve job alignment.
 
 
-🌐 Live App: https://your-app-name.streamlit.app](https://ai-resume-analyzer-hzmv7uajt8xq6phpzsw8ue.streamlit.app/
+🌐 Live App: https://ai-resume-analyzer-hzmv7uajt8xq6phpzsw8ue.streamlit.app/
 💻 GitHub Repository: https://github.com/loopcraft3/AI-Resume-Analyzer
 
 
